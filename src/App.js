@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Header from '/components/Header';
-import Home from '/pages/Home';
-import ProductDetails from '/pages/ProductDetails';
-import CartPage from '/pages/CartPage';
-import CheckoutPage from '/pages/CheckoutPage';
+import Header from './components/Header';
+import Home from './Pages/Home';
+import ProductDetails from './Pages/ProductDetails';
+import CartPage from './Pages/CartPage';
+import CheckoutPage from './Pages/CheckoutPage';
 import './App.css';
 
 function App() {
