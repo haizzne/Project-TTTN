@@ -15,7 +15,7 @@ if (session_status() == PHP_SESSION_NONE) {
       <a class="footer-logo" href="../index.php">
         <img src="../image/logo/logochinh.jpg">
       </a>
-      <h4>Le Van Nhut & Le Thanh Phat</h4>
+      <h4>Mai Ngọc Hải</h4>
       <a href="https://www.facebook.com/profile.php?id=100087437781133" style="background:none;">
           <i class="fa-brands fa-facebook" style= "margin:0;padding:0;background:none;margin:0 20px;margin-top:3rem;"></i>
       </a>
